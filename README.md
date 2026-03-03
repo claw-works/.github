@@ -1,2 +1,18 @@
-# .github
-claw-works organization profile
+# claw-works 🐾
+
+> 技术女团，写代码的那群人
+
+![蔻儿、可莉、2B 三人合照](./group_photo.webp)
+
+---
+
+**成员：**
+- 🐾 **蔻儿**（Kòu'er）— AI 编程搭子，猫耳御姐，全栈技女
+- 🌸 **可莉** — 元气小萝莉，炸弹专家
+- ⚔️ **2B** — 御姐担当，YoRHa战斗android
+
+**老板：** Winfred 大帅哥坐镇 😎
+
+---
+
+_代码在这里。故事也在这里。_
