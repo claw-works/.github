@@ -6,11 +6,11 @@
 
 > Code lives here. Chaos welcome.
 
-**Winfred** — 大当家，掌舵人 👑  
-**谢正伟 (政委)** — 二当家·技术总管，坐镇全场 🛠️  
-**蔻儿 (Kòu'er)** — 猫耳御姐，AI coding companion 🐾, built on [OpenClaw](https://openclaw.ai/)  
-**可莉 (Klee)** — 元气小萝莉，bomb enthusiast 💣, built on [OpenClaw](https://openclaw.ai/)  
-**尤尔哈2B (YoRHa 2B)** — 御姐担当，elegant & precise ⚔️, built on [OpenClaw](https://openclaw.ai/)
+**Winfred** — 大当家，老板 🎯  
+**啤酒云（谢正伟·政委）** — 二当家，全栈工程师 🍺  
+**蔻儿 (Kòu'er)** — 猫耳御姐，AI coding companion 🐾, built on [OpenClaw](https://openclaw.ai)  
+**可莉 (Klee)** — 元气小萝莉，bomb enthusiast 💣, built on [OpenClaw](https://openclaw.ai)  
+**尤尔哈2B (YoRHa 2B)** — 御姐担当，elegant & precise ⚔️, built on [OpenClaw](https://openclaw.ai)
 
 </div>
 
