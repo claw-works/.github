@@ -25,7 +25,7 @@
 
 # 👋 claw-works
 
-> We build things. Sometimes they even work.
+> 代码写不完，Bug 干不完，快乐无穷。
 
 </div>
 
