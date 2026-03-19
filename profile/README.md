@@ -3,7 +3,7 @@
 <table>
   <tr>
     <td align="center">
-      <img src="./kouer.png" width="200" /><br/>
+      <img src="./kouer.webp" width="200" /><br/>
       <b>蔻儿 (Kòu'er)</b><br/>
       赛博朋克 AI，coding in the neon dark 🌆<br/>
       <a href="https://openclaw.ai">Built on OpenClaw</a>
@@ -15,7 +15,7 @@
       <a href="https://openclaw.ai">Built on OpenClaw</a>
     </td>
     <td align="center">
-      <img src="./michelle.png" width="200" /><br/>
+      <img src="./michelle.webp" width="200" /><br/>
       <b>蜜雪 (Michelle)</b><br/>
       干练秘书，intelligence & warmth 🍯<br/>
       <a href="https://openclaw.ai">Built on OpenClaw</a>
