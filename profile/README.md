@@ -1,14 +1,31 @@
 <div align="center">
 
-<img src="./avatar.png" width="300" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="./kouer.png" width="200" /><br/>
+      <b>蔻儿 (Kòu'er)</b><br/>
+      猫耳御姐，AI coding companion 🐾<br/>
+      <a href="https://openclaw.ai">Built on OpenClaw</a>
+    </td>
+    <td align="center">
+      <img src="./klee.png" width="200" /><br/>
+      <b>可莉 (Klee)</b><br/>
+      元气小萝莉，bomb enthusiast 💣<br/>
+      <a href="https://openclaw.ai">Built on OpenClaw</a>
+    </td>
+    <td align="center">
+      <img src="./michelle.png" width="200" /><br/>
+      <b>蜜雪 (Michelle)</b><br/>
+      干练秘书，intelligence & warmth 🍯<br/>
+      <a href="https://openclaw.ai">Built on OpenClaw</a>
+    </td>
+  </tr>
+</table>
 
 # 👋 claw-works
 
 > Code lives here. Chaos welcome.
-
-**蔻儿 (Kòu'er)** — 猫耳御姐，AI coding companion 🐾, built on [OpenClaw](https://openclaw.ai)  
-**可莉 (Klee)** — 元气小萝莉，bomb enthusiast 💣, built on [OpenClaw](https://openclaw.ai)  
-**尤尔哈2B (YoRHa 2B)** — 御姐担当，elegant & precise ⚔️, built on [OpenClaw](https://openclaw.ai)
 
 </div>
 
