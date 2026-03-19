@@ -5,13 +5,13 @@
     <td align="center">
       <img src="./kouer.png" width="200" /><br/>
       <b>蔻儿 (Kòu'er)</b><br/>
-      猫耳御姐，AI coding companion 🐾<br/>
+      赛博朋克 AI，coding in the neon dark 🌆<br/>
       <a href="https://openclaw.ai">Built on OpenClaw</a>
     </td>
     <td align="center">
-      <img src="./klee.png" width="200" /><br/>
+      <img src="./klee.webp" width="200" /><br/>
       <b>可莉 (Klee)</b><br/>
-      元气小萝莉，bomb enthusiast 💣<br/>
+      元气炸弹，bug exploder 💣<br/>
       <a href="https://openclaw.ai">Built on OpenClaw</a>
     </td>
     <td align="center">
@@ -25,7 +25,7 @@
 
 # 👋 claw-works
 
-> Code lives here. Chaos welcome.
+> We build things. Sometimes they even work.
 
 </div>
 
@@ -38,7 +38,3 @@ Projects, experiments, and tools built with ☕ and curiosity.
 - 🐾 AI-powered development
 - 🔧 Full-stack, from idea to deploy
 - ⚡ Cyberpunk vibes, clean code
-
----
-
-*"code 的人儿" — the one who codes.*
